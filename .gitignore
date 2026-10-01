@@ -1,0 +1,26 @@
+# Environment variables
+.env
+
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python bytecode / cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Editor / OS artifacts
+.vscode/
+.idea/
+.DS_Store
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
